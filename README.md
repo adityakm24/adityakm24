@@ -8,7 +8,7 @@
 
 
 ## 🎓 I'm a Computer Science student with specialization in AI and ML
-- 🔭 I’m currently working at TCS
+- 🔭 I’m currently working at NetApp
 - 🌱 I’m currently learning Machine Learning and AI with Python
 - 👯 I’m looking to collaborate on any open-source projects
 - 💬 Ask me about Space Tech and Front-end development or anything you like
